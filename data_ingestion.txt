@@ -1,2 +1,2 @@
-This is a data ingestor ' file 1
+HEY!, Im resolving this data error, (from master)This is a data ingestor ' file 1
 FROM MASTER branch Let me  contribute with new lines
