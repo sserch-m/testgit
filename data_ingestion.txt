@@ -1,2 +1,11 @@
+
 HEY!, Im resolving this data error, (from master)This is a data ingestor ' file 1
 FROM MASTER branch Let me  contribute with new lines
+
+This is a data ingestor ' file 1
+FROM MASTER branch Let me  contribute with new lines
+
+
+I´m just learning GIT.
+Fixing BUGS from BugFixed2.
+
