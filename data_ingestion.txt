@@ -9,3 +9,4 @@ FROM MASTER branch Let me  contribute with new lines
 I´m just learning GIT.
 Fixing BUGS from BugFixed2.
 
+New text to test Rebase GIT function
