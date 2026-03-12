@@ -8,9 +8,4 @@ NewDeveloper adding more data
 (FEATURE LINE) new line
 (FEATURE)second line added
 
-
-(Line1 MASTER) after rebase
-
-
-(line2 MASTER)commit2 after rebase
 (NEWL1 REBASE_FEAT) not in Master
