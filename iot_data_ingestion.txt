@@ -10,3 +10,6 @@ NewDeveloper adding more data
 
 
 (Line1 MASTER) after rebase
+
+
+(line2 MASTER)commit2 after rebase
