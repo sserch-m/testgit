@@ -10,3 +10,6 @@ Extra Line for mergin feature_new_2
 
 (FEATURE_NEW_2) new line
 (MASTER LINE)new line from master
+
+
+(LINE1 MASTER) after rebase commit1
