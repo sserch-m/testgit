@@ -5,3 +5,5 @@ NewDeveloper adding more data
 (MASTER) new line
 (FEATURE LINE) new line
 
+(FEATURE LINE) new line
+(FEATURE)second line added
